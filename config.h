@@ -9,4 +9,4 @@ const int rs = 22, en = 23, d4 = 26, d5 = 27, d6 = 14, d7 = 12;
 // Temperature sensors
 #define TMP_0 1
 #define TMP_1 3
-#define TMP_2 23
+#define TMP_2 21
